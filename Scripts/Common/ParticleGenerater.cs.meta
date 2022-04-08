@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b0b029614979840efa1aa6640ca5d564
+timeCreated: 1519006842
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - brightPref: {fileID: 1628527159035326, guid: 518f3c2b25c004903bb26559aa72fdd3,
+      type: 2}
+  - fireworksPref: {fileID: 1102205806156806, guid: 90acf6a6737e84ef488bac0f8550dc5d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

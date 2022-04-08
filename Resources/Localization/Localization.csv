@@ -1,0 +1,99 @@
+﻿key,Japanese,English,Korean,ChineseSimplified,ChineseTraditional
+prize_words_file,prize_words_jp,prize_words_en,prize_words_ko,prize_words_ch_s,prize_words_ch_t
+game,ゲーム,Main Menu,게임,游戏,遊戲
+design,デザイン,design,디자인,图案,圖案
+hint,ヒント,Hint,힌트,提示,提示
+back,戻す,Back,되돌리기,撤销,撤銷
+scan,スキャン,Peek,스캔,扫描,掃描
+current scan tab,現在の山札にあるカードの状態を表示中,Showing current stock cards,현재 뒤집지 않은 카드 상태를 표시 중,正在显示在当前的牌堆上的牌的状态,正在顯示在當前的牌堆上的牌的狀態
+next scan tab,次の回での山札にあるカードの状態を表示中,Showing next set of stock cards,다음 차례의 뒤집지않은 카드 상태를 표시 중,正在显示在下一次的牌堆上的牌的状态,正在顯示在下一次的牌堆上的牌的狀態
+games won,クリア回数,Wins,클리어 횟수,完成次数,完成次數
+flip one,一枚めくり,Draw one,한 장 뒤집기,翻一张,翻一張	
+flip three,三枚めくり,Draw three,세 장 뒤집기,翻三张,翻三張
+best time,最速クリアタイム,Best time,최고 클리어 타임,最快完成用时,最快完成用時	
+best moves,最少移動回数,Fewest moves,최소 이동 횟수,最少移动次数,最少移動次數	
+best score,ベストスコア,Best score,최고 점수,最佳得分,最佳得分
+best total score,ベストトータルスコア,Best total score,최고 종합 점수,最佳总得分,最佳總得分
+game played,プレイ回数,Games played,플레이 횟수,游戏次数,遊戲次數
+percantage of won,勝率,Percent won,승률,胜率,勝率		
+total games played,総プレイ回数,Total games,총 플레이 횟수,总游戏次数,總遊戲次數	
+total played time,総プレイ時間,Total play time,총 플레이 시간,总游戏时间,總遊戲時間
+free scan,無料スキャン,Free Peek!,무료로 스캔!,免费扫描！,免費掃描！		
+remove ads,広告非表示,Remove ads,광고 없애기,去除广告,去除廣告
+cost no ads,¥240,$1.99,$2.19,¥14.00,NT$ 70
+cost10,¥120,$0.99,$1.09,¥6.00,NT$ 30
+cost24,¥240,$1.99,$2.19,¥12.00,NT$ 60
+cost80,¥600,$4.99,$5.49,¥30.00,NT$ 150
+cost200,¥1.200,$9.99,$10.99,¥68.00,NT$ 300
+use scan,スキャンを使用しますか？,Enable peeking?,스캔을 사용할까요?,是否要使用扫描？,是否要使用掃描？			
+left scan,残り, ,남은 횟수,还剩,還剩	
+times,回,game left,회,次,次
+see store,ストアを見ますか？,Go to store?,앱스토어를 볼까요?,是否要打开商店？,是否要打開商店？		
+no scan,スキャン使用回数が足りません。,You have no more peeks,스캔 사용 횟수가 부족합니다,扫描使用次数不足,掃描使用次數不足			
+yes or no,よろしいですか？,OK?,좋습니까?,是否可以？,是否可以？		
+play new game,新しいゲームを始めます。,Start a new game,새로운 게임을 시작합니다,开始新游戏,開始新遊戲	
+replay game,このゲームを始めからやり直します。,Restart this game,이 게임을 처음부터 다시 시작합니다,重新开始当前的游戏,重新開始當前的遊戲		
+end game play 1 flip,このゲームを終了し、1枚めくりで新しくゲームを始めます。,End this game and start a new draw one game,이 게임을 종료하고 1장 뒤집기로 새 게임을 시작합니다,结束当前的游戏、 开始翻1张的新游戏,結束當前的遊戲、 開始翻1張的新遊戲		
+end game play 3 flip,このゲームを終了し、3 枚めくりで新しくゲームを始めます。,End this game and start a new draw three game,이 게임을 종료하고 3장 뒤집기로 새 게임을 시작합니다,结束当前的游戏、开始翻3张的新游戏,結束當前的遊戲、開始翻3張的新遊戲	
+end game change flip,プレイ中のゲームを終了し、めくる枚数を変更します。,Ends current game to change draw number,플레이 중인 게임을 종료하고 뒤집는 횟수를 변경합니다,结束进行中的游戏"，"变更翻开的张数,結束進行中的遊戲、變更翻開的張數		
+see hoe to play,遊び方を見ますか？,Watch tutorial?,놀이 방법을 볼까요?,是否要查看游戏方法？,是否要查看遊戲方法？		
+could purchase,購入できました。,Purchase completed,구입했습니다,购买成功,購買成功			
+couldnt purchase,購入できませんでした。,Purchase was not completed,구입에 실패했습니다,购买失败,購買失敗		
+scan times is,スキャンを,You earned,스캔을,获得,獲得			
+you got,つ手に入れました！,peek!,개 입수했습니다!,次扫描！,次掃描！	
+scaned,スキャンあり,Peeking,스캔 있음,使用了扫描,使用了掃描		
+no scaned,スキャンなし,No peeking,스캔 없음,没有使用扫描,沒有使用掃描
+rule1_1,カードが移動する場所の名前です。,These are the places where cards can be moved.,카드가 이동하는 장소의 이름입니다.,牌移动的地方的名字。,牌移動的地方的名字。
+rule1_2,タップ、スワイプを使用してカードを移動できます。,Tap and swipe to move cards.,탭、스와이프를 사용해 카드를 이동할 수 있습니다.,通过点击、拖动可以移动牌。, 通過點擊、拖動可以移動牌。
+rule1_3,タップをした場合、カードは自動で移動します。,Tapping moves cards automatically.,탭을 한 경우 카드는 자동으로 이동합니다.,点击时、牌会自动移动。,點擊時、牌會自動移動。
+rule2,場札のカードは降順で色違いに並べることができます。,Tableau piles can be built down by alternating colors.,타블로의 카드는 내림차순에 따라 다른 색상으로 정렬할 수 있습니다.,可以把场上的牌按照从大到小的顺序不同颜色交替排列。,可以把場上的牌按照從大到小的順序不同顏色交替排列。		
+rule3,場札のカードは部分的にでも、降順の色違いで並んでいればまとめて移動することも可能です。,Any partial or complete piles in the tableau can be moved as long as they are built down by alternating colors.,타블로의 카드는 부분적으로도 내림차순에 따라 다른 색상으로 정렬 시 통째로 이동하는 것도 가능합니다.,场上按降序不同颜色交替排列起来的若干张牌可以移动。,場上按降序不同顏色交替排列起來的若干張牌可以移動。	
+rule4,場札に空の列があった場合はキングもしくはキングから始まる束を移動することができます。,A King or a pile with a King at the bottom can be placed in any empty tableau column.,타블로에 비어있는 칸이 있는 경우는 킹 또는 킹에서 시작하는 카드 뭉치를 이동할 수 있습니다.,场上有空列时，可以将K或者以K打头的一串牌移动到该列。,場上有空列時，可以將K或者以K打頭的一串牌移動到該列。	
+rule5_1,場札から移動できるカードが無い時は山札をタップしてめくってみましょう。,When no cards can be moved from the tableau piles、tap the stock to draw.,타블로에서 이동할 수 있는 카드가 없을 때에는 뒤집지 않은 카드를 탭해 뒤집어 봅시다.,当场上没有可以移动的牌时、不妨试试点击牌堆。,當場上沒有可以移動的牌時、不妨試試點擊牌堆。
+rule5_2,めくり札の一番手前にある札を使うことができます。,You can play only the top card of the hand you draw.,뒤집은 카드의 가장 앞에 있는 패를 사용할 수 있습니다.,翻开的牌里位于最上面的牌可以使用。,翻開的牌裡位於最上面的牌可以使用。
+rule6_1,すべてのカードを組み札へ積み上げることがゲームの目的です。,The object of the game is to build up each of the foundations.,모든 카드를 파운데이션에 쌓아올리는 것이 게임의 목표입니다.,游戏目标是把全部的牌都摞到目标牌堆上。,遊戲目標是把全部的牌都摞到目標牌堆上。
+rule6_2,エースからキングまで順番に同じスーツで積み上げましょう。,Foundations must be built up in order from Ace to King、one for each suit.,에이스에서 킹까지 순번대로 같은 짝패로 쌓아올립시다.,按从A到K的顺序把同样花色的牌摞叠起来吧。,按從A到K的順序把同樣花色的牌摞疊起來吧。
+rule7,山札からカードが一枚ずつめくられるルールです。めくったカードはすべて使用することができるので、難易度は低いです。,Cards are drawn from the stock one card at a time.The difficulty level is low、as all of the drawn cards can be used.,뒤집지 않은 카드 중 카드가 한 장씩 뒤집어집니다.뒤집은 카드는 모두 사용할 수 있으므로、난이도는 낮습니다.,每次从牌堆上翻开一张牌。因为翻出的牌全都可以用、所以难度很低。,每次從牌堆上翻開一張牌。因為翻出的牌全都可以用、所以難度很低。
+rule8,山札からカードが三枚ずつめくられるルールです。三枚目のカードからしか使用できず、二枚目、一枚目はその前のカードを使用してから使用可能になるため、難易度が高くなります。,Cards are drawn from the stock three cards at a time.The difficulty level is higher、as only the third card can be used、and the first and second cards can only be used after the previous card has been used.,뒤집지 않은 카드 중 카드가 3장씩 뒤집어집니다.3장째 카드부터만 사용할 수 있으며、2장째、첫 장째는 그 전 카드를 사용한 후 사용 가능하게 되므로、난이도가 높아집니다.,每次从牌堆上翻开三张牌。只能从第三张牌开始使用、第二张和第一张都得等它前一张牌被用掉之后才可以使用、因此难度会提升。,每次從牌堆上翻開三張牌。只能從第三張牌開始使用、第二張和第一張都得等它前一張牌被用掉之後才可以使用、因此難度會提升。
+rule9_1,ゲームメニューにあるスキャンは本アプリのオリジナル機能です。,"Peek" on the game menu is a function exclusive to this app.,게임 메뉴에 있는 스캔은 본 어플의 오리지널 기능입니다.,游戏菜单里的扫描是本APP的原创功能。,遊戲菜單裡的掃描是本APP的原創功能。
+rule9_2,スキャンを使用すると山札の中身の全てをリアルタイムで見ながらプレイすることができます。,Peeking lets you see all of the cards in your stock pile in real time.,스캔을 사용하면 뒤집지 않은 카드의 내부 전체를 실시간으로 보며 플레이할 수 있습니다.,使用扫描后可以在游戏的同时实时的看到牌堆的全部内容。,使用掃描後可以在遊戲的同時實時的看到牌堆的全部內容。
+rule10,スキャンを使用することで、より少ない手数でクリアを目指すことができます。,Peeking makes it possible to win games in even fewer moves.,스캔을 사용하면 더욱 적은 횟수로 클리어할 수 있습니다.,通过使用扫描、可以挑战用更少的步数完成游戏。,通過使用掃描、可以挑戰用更少的步數完成遊戲。
+rule11,スキャンにはタブが二つあります。,The peek function provides two tabs.,스캔에는 탭이 두 개 있습니다.,扫描时有两个选项可以选择。,掃描時有兩個選項可以選擇。
+rule12,一つは、現在の山札の状態をそのまま見ることができます。,One shows the current cards in the stock.,하나는、현재 뒤집지 않은 카드의 상태를 그대로 보는 것이 가능합니다,一个是可以看到现在的牌堆的状态。,一個是可以看到現在的牌堆的狀態。
+rule13,もう一つは、次の回での山札の状態を見ることができます。,The other shows the deck from the next round.,다른 하나는、다음 회에서 뒤집지 않은 카드의 상태를 예상해 보는 것이 가능합니다.,另一种是、可以查看下一轮的牌堆的状态。,另一種是、可以查看下一輪的牌堆的狀態。
+first scan,初めてスキャンを使いますね！,This is your first time using a Peek!,처음으로 스캔을 사용하시는군요!,您是第一次使用扫描吧！,您是第一次使用掃描吧！
+how is scan,スキャンの使い方を見ますか？,Would you like to see how it works?,스캔의 사용법을 보시겠어요?,想要看一下扫描的使用方法吗？,想要看一下掃描的使用方法嗎？
+how is solitaire,はじめまして！ソリティアの遊び方はご存知ですか？,Welcome! Do you know how to play Solitaire?,안녕하세요! 솔리테어 게임 방법을 아시나요?,很高兴认识您！ 您知道纸牌接龙的玩法吗？,很高興認識您！ 您知道紙牌接龍的玩法嗎？
+thank you use app,いつも遊んでいただきありがとうございます！,Thanks for playing!,항상 이용해주셔서 감사합니다!,非常感谢您一直以来的游玩！,非常感謝您一直以來的遊玩！
+like this app,このアプリを気に入って頂けましたか？,Did you enjoy using this app?,이 앱이 마음에 드셨나요?,您对这款应用程式感到满意吗？,您對這款應用程式感到滿意嗎？
+glad you like,満足していただきとても嬉しいです！,Thank you! We're glad you liked it!,마음에 드셨다니 다행입니다!,非常高兴您能够对此感到满意！,非常高興您能夠對此感到滿意！
+go review,ストアへ移動しこのアプリを評価しますか？,Would you like to leave a review in the app store?,스토어로 이동하여 이 앱을 평가 하시겠습니까?,你想评估这个应用程序？,你想評估這個應用程序？
+payment service act,資金決済法第13条に基づく表示,Payment Service Act,Payment Service Act,Payment Service Act,Payment Service Act
+privacy policy,プライベートポリシー,Privacy Policy,개인 정보 정책,隐私政策,隱私政策
+purchase policy,アプリ内課金について,Purchase Policy,구매 정책,采购政策,採購政策
+act on specified commercial transaction,特定商取引法に基づく記載,Act On Specified Commercial Transaction,Act On Specified Commercial Transaction,Act On Specified Commercial Transaction,Act On Specified Commercial Transaction
+celebrate wons,回クリアおめでとうございます！,times winning! Congratulation!,승 축하드립니다!,你已获胜,你已獲勝
+_celebrate wons,_,_,_,次 恭喜！,次 恭喜！
+presented scan,スキャンを,You've got a present as,번 째 게임 플레이로 스캔을 획득하셨습니다!,你获得了,你獲得了
+_presented scan,つプレゼント！,times scan!,_,个扫描码 你可以扫描这个,個掃描碼 你可以掃描這個
+draws,めくり札,drawn,뒤집은 카드,翻开的牌,翻開的牌
+stock,山札,stock,뒤집지 않은 카드,牌堆,牌堆
+tableau,場札,tableau piles,타블로,场上的牌,場上的牌
+foundations,組み札,foundations,파운데이션,牌堆上,牌堆上
+left hand,左利き,Left Hand,왼손잡이,左撇子,左撇子
+right hand,右利き,Right Hand,오른손잡이,右撇子,右撇子
+how to play,遊び方,How To Play,게임 방법,怎么玩,怎麼玩
+time,タイム,Time,시각,时间,時間
+move,移動回数,Move,이동 횟수,移动次数,移動次數
+score,スコア,Score,점수,得分,得分
+total score,トータルスコア,Total Score,종합 점수,总得分,總得分
+this game,今回の記録,This Record,이 기록,这个记录,這個記錄
+the best,最高記録,Best Record,최고 기록,最高纪录,最高紀錄
+statistics,成績,Grades,성적,成绩,成績
+cardback,カード裏面,BACKCARD,카드 뒷면,卡的背面,卡的背面
+background,背景,BACKGROUND,배경,背景,背景
+replay,リプレイ,REPLAY,다시 하다,重播,重播
+newgame,新しいゲーム,NEW GAME,새로운 게임,新游戏,新遊戲
+reward button word,30分間広告非表示,Hide Ads for 30min,30분 동안 광고 숨기기,隐藏广告 30 分钟,隱藏廣告 30 分鐘
+purchase button word,広告を削除する,Remove Ads,광고 삭제,移除广告,移除廣告
+

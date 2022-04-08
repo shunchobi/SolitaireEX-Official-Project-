@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bb60749fff0684e17a3b049052fd3316
+timeCreated: 1515855909
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundOnSprite: {fileID: 21300000, guid: ebb3514a720a14ef5b2f63dc57e4de8b, type: 3}
+  - soundOffSprite: {fileID: 21300000, guid: 475d726735e734e688521f71fa70dfcc, type: 3}
+  - timeOnSprite: {fileID: 21300000, guid: cd22248014bbf4f9582902a60a023483, type: 3}
+  - timeOffSprite: {fileID: 21300000, guid: 9bdb481380525407097bad36b08610db, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

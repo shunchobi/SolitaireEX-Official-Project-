@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 75323a7826a5c407486e785ef8d3e773
+timeCreated: 1516438675
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - digitPrefab: {fileID: 1102338975029402, guid: 84d8c0f2cdef4402d91ca6db5c494261,
+      type: 2}
+  - numZero: {fileID: 21300000, guid: 52d33820814c54346b9e465bc5dcb5a5, type: 3}
+  - numOne: {fileID: 21300000, guid: 3c1bcebf53193402a9e806f24d3b797d, type: 3}
+  - numTwo: {fileID: 21300000, guid: e3574528d8ede43f2bdb6a4b401cbeb9, type: 3}
+  - numThree: {fileID: 21300000, guid: f67bd8ee397da4c8fbead9e31a6949ee, type: 3}
+  - numFour: {fileID: 21300000, guid: fa29146522cb94148b1dd779529f3fec, type: 3}
+  - numFive: {fileID: 21300000, guid: d8adb2c73310844fc972e7fdbad18b2f, type: 3}
+  - numSix: {fileID: 21300000, guid: 193d1c9186f534748ab10f30ee491296, type: 3}
+  - numSeven: {fileID: 21300000, guid: 7499fe9054df64125b77354b4a005f09, type: 3}
+  - numEight: {fileID: 21300000, guid: 0197b9266d8a147ecb32f35abc4709ca, type: 3}
+  - numNine: {fileID: 21300000, guid: 201ef4ac4d15f438cb77bba5b0dddd31, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd2404b8976fa45a480ea3eebc4b8030
+timeCreated: 1519015954
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireWorksPref: {fileID: 1102205806156806, guid: 90acf6a6737e84ef488bac0f8550dc5d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
